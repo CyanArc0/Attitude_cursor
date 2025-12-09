@@ -1,0 +1,1 @@
+@g++ -std=c++23 -I. -DUNICODE -DNDEBUG main.cpp -O3 -s -static -o Attitude_cursor.exe
