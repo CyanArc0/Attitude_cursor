@@ -1,12 +1,20 @@
 # 姿态鼠标
+整蛊程序，让鼠标变得难以控制。
 ### 组合键
-Ctrl+Alt+M Mode 切换模式。  
-Ctrl+Alt+C Console 开关控制台，控制台会显示鼠标位置，惯性，风向量等信息。  
-Ctrl+Alt+B reset 将鼠标指针重置到屏幕中央。  
-Ctrl+Alt+W Weather 循环切换天气。  
-Ctrl+Alt+Q Quit 退出程序。  
-Ctrl+Alt+L Lock 禁用组合键，输入密码后解锁。  
-按住Alt输入数字 输入密码，默认为0147896325。  
+Ctrl+Alt+M Mode  
+切换模式。  
+Ctrl+Alt+C Console  
+开关控制台，控制台会显示鼠标位置，惯性，风向量等信息。  
+Ctrl+Alt+B reset  
+将鼠标指针重置到屏幕中央。  
+Ctrl+Alt+W Weather  
+循环切换天气。  
+Ctrl+Alt+Q Quit  
+退出程序。  
+Ctrl+Alt+L Lock  
+禁用组合键，输入密码后解锁。  
+按住Alt输入数字  
+输入密码，默认为0147896325。  
 ###### 模式  
 位置模式 无效果。  
 姿态模式 鼠标具有惯性，碰到边缘反弹。  
