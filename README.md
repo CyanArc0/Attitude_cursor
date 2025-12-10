@@ -5,7 +5,7 @@ Ctrl+Alt+M Mode
 切换模式。  
 
 Ctrl+Alt+C Console  
-开关控制台，控制台会显示鼠标位置，惯性，风向量等信息。  
+开关控制台；控制台会显示鼠标位置、惯性、风向量等信息。  
 
 Ctrl+Alt+B reset  
 将鼠标指针重置到屏幕中央。  
@@ -46,4 +46,4 @@ L
 ```
 Attitude_cursor.exe M1 W3 ~3
 ```
-以{姿态模式,Gusty}启动程序，3s后开始运行。  
+以姿态模式、Gusty启动程序，3s后开始运行。  
